@@ -1,0 +1,12 @@
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/bin/Debug/netcoreapp3.1/Project.deps.json
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/bin/Debug/netcoreapp3.1/Project.runtimeconfig.json
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/bin/Debug/netcoreapp3.1/Project.runtimeconfig.dev.json
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/bin/Debug/netcoreapp3.1/Project.dll
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/bin/Debug/netcoreapp3.1/Project.pdb
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.csprojAssemblyReference.cache
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.AssemblyInfoInputs.cache
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.AssemblyInfo.cs
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.csproj.CoreCompileInputs.cache
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.dll
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.pdb
+/Users/hryniuk.a/Documents/GitHub/TCPP-Hryniuk-MainProject/Project/obj/Debug/netcoreapp3.1/Project.genruntimeconfig.cache
