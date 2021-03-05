@@ -6,7 +6,7 @@ namespace Project
     {
         private static void Main()
         {
-            // Змінено з IDE
+            // Змінено з браузера
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.InputEncoding = System.Text.Encoding.UTF8;
 
