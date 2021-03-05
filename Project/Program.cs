@@ -6,6 +6,7 @@ namespace Project
     {
         private static void Main()
         {
+            // Нова зміна
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.InputEncoding = System.Text.Encoding.UTF8;
 
