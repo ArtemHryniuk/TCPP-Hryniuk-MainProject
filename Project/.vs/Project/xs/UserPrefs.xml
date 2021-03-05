@@ -1,9 +1,9 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{FDD5CDA4-AE54-43B0-A0F3-0A3E6EFF2212}|Default">
   <MonoDevelop.Ide.ItemProperties.Project PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithArray.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="1" />
-      <File FileName="WorkingWithArray.cs" />
+      <File FileName="Program.cs" Line="9" Column="29" />
+      <File FileName="WorkingWithArray.cs" Line="40" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
