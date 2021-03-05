@@ -19,6 +19,8 @@ namespace Project
         again:
             Console.WriteLine("\nEnter – обрати інший елемент\nБудь–яка інша клавіша"
                 + " – обчислити мінімальне значення в кожному рядку масиву та його індекс");
+
+            // Зміни_1
             ConsoleKey key = Console.ReadKey().Key;
             if (key == ConsoleKey.Enter)
             {
