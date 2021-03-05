@@ -1,21 +1,10 @@
-﻿<Properties StartupConfiguration="{FDD5CDA4-AE54-43B0-A0F3-0A3E6EFF2212}|Default">
-  <MonoDevelop.Ide.ItemProperties.Project FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithArray.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{FDD5CDA4-AE54-43B0-A0F3-0A3E6EFF2212}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="3" Column="18" />
-      <File FileName="WorkingWithArray.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="9" Column="1" />
+      <File FileName="WorkingWithArray.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Project" expanded="True">
-            <Node name="Project" expanded="True">
-              <Node name="WorkingWithArray.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
