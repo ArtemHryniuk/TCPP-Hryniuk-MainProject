@@ -36,6 +36,7 @@ namespace Project
             return M;
         }
 
+        // Зміни_2
         public int SetNumberOfArrayColumns()
         {
             while (true)
